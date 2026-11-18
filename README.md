@@ -141,15 +141,19 @@ Both analysis modes return the same data structures:
 If you use this framework in your research, please cite:
 
 ```bibtex
-@article{TalebiKalaleh2025opensees_vbi,
+@article{TalebiKalaleh2026opensees_vbi,
   title   = {An Open-Source Framework for Coupled Vehicle-Bridge Interaction
              Analysis Using {OpenSees}},
   author  = {Talebi-Kalaleh, Mohammad and Mei, Qipei},
-  journal = {},
-  year    = {2025},
-  note    = {Manuscript in preparation}
+  journal = {Journal of Infrastructure Intelligence and Resilience},
+  year    = {2026},
+  month   = dec,
+  url     = {https://linkinghub.elsevier.com/retrieve/pii/S2772991526000575}
 }
 ```
+
+Article: [An Open-Source Framework for Coupled Vehicle-Bridge Interaction
+Analysis Using OpenSees](https://linkinghub.elsevier.com/retrieve/pii/S2772991526000575)
 
 ## License
 
